@@ -1,6 +1,6 @@
 # Pearson Hardman
 
-Site de escritório de advocacia inspirado na série de TV "Suits".
+Site responsivo de escritório de advocacia inspirado na série de TV "Suits".
 
 Projeto criado utilizando tecnologias base para o desenvolvimento web: HTML, CSS e JavaScript.
 
